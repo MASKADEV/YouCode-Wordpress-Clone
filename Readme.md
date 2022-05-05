@@ -114,33 +114,6 @@
 <div class="wp-block-columns">
 <div class="wp-block-column" style="flex-basis:40%">
 <p>Once you learn how to install XAMPP and WordPress the first time, you can quickly spin up new testing sites whenever needed.</p>
-</div>
-<div class="wp-block-column" style="flex-basis:60%">
-<div class="ti-tweet-clear"></div>
-<div class="ti-tweet_wrapper">
-<div class="ti-tweet_text">
-<a href="https://twitter.com/share?text=How+to+install+%23WordPress+locally+on+%23XAMPP+%F0%9F%92%A1&amp;via=themeisle&amp;related=themeisle&amp;url=https://themeisle.com/blog/install-xampp-and-wordpress-locally/" target="_blank">How to install #WordPress locally on #XAMPP 💡</a>
-</div>
-<div class="ti-tweet_sharebtn">
-<a href="https://twitter.com/share?text=How+to+install+%23WordPress+locally+on+%23XAMPP+%F0%9F%92%A1&amp;via=themeisle&amp;related=themeisle&amp;url=https://themeisle.com/blog/install-xampp-and-wordpress-locally/" target="_blank">Click To Tweet
-<span></span>
-</a>
-</div>
-</div>
-</div>
-</div>
-<p>As a freelance writer, I use XAMPP installs to review any number of themes and plugins. At this point, I probably have about 60 separate WordPress installs running on XAMPP. So if you need any assistance with XAMPP and WordPress, leave a comment and I’ll try to help out!</p>
-<p>If you’re interested in some other ways to create local WordPress development sites, we also have a lot of other useful guides:</p>
-<ul><li><a href="https://themeisle.com/blog/local-by-flywheel-wordpress-on-mac/">Using Local for local WordPress development</a></li><li><a href="https://themeisle.com/blog/local-wordpress-development-desktopserver/">Using DesktopServer for local WordPress development</a></li><li><a href="https://themeisle.com/blog/local-wordpress-development-using-docker/">Creating Docker containers for local development</a></li></ul>
-<p><strong><em>Do you still have any questions about how to install WordPress locally with XAMPP? Let us know in the comments!</em></strong></p>
-<div class="ti_ad pirate">
-<h5>Free guide</h5>
-<h3>5 Essential Tips to Speed Up <br>Your WordPress Site</h3>
-<h4>Reduce your loading time by even 50-80% <br>just by following simple tips.</h4>
-<a href="https://app.monstercampaigns.com/c/lhkifzgco5uonmkjpkbv/" class="sidebar-btn" rel="nofollow" target="_blank">Download free guide</a>
-</div>
-<p><span style="color: #909090;">* This post contains affiliate links, which means that if you click on one of the product links and then purchase the product, we’ll receive a commission. No worries though, you’ll still pay the standard amount so there’s no cost on your part.</span></p>
-<script type="application/ld+json">
 ]
 }
 ]
