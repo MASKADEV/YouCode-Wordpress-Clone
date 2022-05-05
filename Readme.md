@@ -103,19 +103,9 @@
 <p>Look for a line of code that starts with <code>Alias /phpmyadmin.</code></p>
 <p>Within that code block, you should see a line that says <code>Require local</code>. Change that line to say <code>Require all granted</code> instead.</p>
 <p>That should fix the XAMPP database access forbidden error and give you access to phpMyAdmin.</p>
-<h2>What about multisite or staging?</h2>
-<h3>How to install XAMPP and WordPress multisite</h3>
-<p>If you want to play around with <a href="https://themeisle.com/blog/what-is-wordpress-multisite/">WordPress multisite</a>, it’s also possible to configure WordPress multisite to work on your local host. Rather than duplicating information, though, I’ll just direct you to Vishnu’s post on <a href="https://themeisle.com/blog/install-wordpress-multisite-on-local-host/">how to set up WordPress multisite on a local host</a>.</p>
-<h3>Should you use XAMPP and WordPress for staging?</h3>
-<p>While running WordPress on your localhost is a great way to experiment and try things with WordPress, you shouldn’t use it as an actual staging site for a live site.</p>
-<p>That’s because it has a different hardware configuration than your live site. So just because something works or doesn’t work on your XAMPP WordPress install doesn’t mean it will be the same on your live production site.</p>
-<p>Instead, using a subdomain or your host’s staging service are much better ways to <a href="https://themeisle.com/blog/wordpress-staging-site/">create a WordPress staging site</a>. You can also use <a href="https://themeisle.com/blog/best-wordpress-staging-plugins/">a dedicated WordPress staging plugin</a>.</p>
-<h2>Wrapping things up on how to install WordPress locally on XAMPP</h2>
-<div class="wp-block-columns">
-<div class="wp-block-column" style="flex-basis:40%">
-<p>Once you learn how to install XAMPP and WordPress the first time, you can quickly spin up new testing sites whenever needed.</p>
 ]
 }
 ]
 }
+<h4>and Voila!</h4>
 </script></article>
