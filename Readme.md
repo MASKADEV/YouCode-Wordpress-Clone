@@ -104,4 +104,4 @@
 <p>Within that code block, you should see a line that says <code>Require local</code>. Change that line to say <code>Require all granted</code> instead.</p>
 <p>That should fix the XAMPP database access forbidden error and give you access to phpMyAdmin.</p>
 <h2 style="text-align: center">and Voila!</h2>
-</script></article>
+</article>
